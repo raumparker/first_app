@@ -1,0 +1,9 @@
+[Tue Jan 24 23:41:17 2012] [error] [client 178.200.30.6] File does not exist: /home/ca/ruby_projects/employees/testers
+[Wed Jan 25 14:56:29 2012] [error] [client 195.71.90.194] Premature end of script headers: rails, referer: http://rails.deutsches-portal.de/
+[Wed Jan 25 14:56:44 2012] [error] [client 195.71.90.194] Premature end of script headers: rails, referer: http://rails.deutsches-portal.de/
+[Wed Jan 25 14:57:02 2012] [error] [client 195.71.90.194] Premature end of script headers: rails, referer: http://rails.deutsches-portal.de/
+[Wed Jan 25 14:57:03 2012] [error] [client 195.71.90.194] Premature end of script headers: rails, referer: http://rails.deutsches-portal.de/
+[Wed Jan 25 15:47:47 2012] [error] [client 195.71.90.194] script '/home/ca/ruby_projects/employees/public/info.php' not found or unable to stat
+[Thu Jan 26 23:52:30 2012] [error] [client 178.200.30.6] client denied by server configuration: /usr/share/phppgadmin/
+[Thu Jan 26 23:52:42 2012] [error] [client 178.200.30.6] client denied by server configuration: /usr/share/phppgadmin/
+[Fri Jan 27 21:40:42 2012] [error] [client 178.200.30.6] client denied by server configuration: /usr/share/phppgadmin/
